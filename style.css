@@ -540,7 +540,7 @@ select {
       background-color: var(--extra-light);
     }
 
-    @media (max-width: 769px) {
+    @media (max-width: 761px) {
       .order-container .box-container {
           border-bottom: 1px solid #000; /* Example for smaller screens */
           padding-bottom: 15px;
